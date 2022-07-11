@@ -9,7 +9,7 @@ nimic
 
 ## Purpose
 
-Imi place porposu
+Imi place porposu baga ma bine
 
 ## Deployment
 
