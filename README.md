@@ -1,7 +1,7 @@
 # Starter Web Repo
 
 This repository is for showing how Git and GitHub work
-More changes from 
+More changes from Orez cu lapte
 
 ## Introduction
 
