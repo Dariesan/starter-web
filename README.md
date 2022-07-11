@@ -20,4 +20,4 @@ any web
 Plase fork this repository and then issuasda
 
 ###CopyRight
-git traing
+git traing iar baga din top ca Nelu
