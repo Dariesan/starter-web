@@ -14,7 +14,7 @@ any web
 
 ## How To Contribue
 
-Plase fork this repository and then issu
+Plase fork this repository and then issuasda
 
 ###CopyRight
 git traing
