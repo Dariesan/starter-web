@@ -15,3 +15,6 @@ any web
 ## How To Contribue
 
 Sample website with plenty of files for demos
+
+###CopyRight
+git traing
